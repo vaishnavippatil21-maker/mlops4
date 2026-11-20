@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Airflow generated files
+logs/
+airflow.db
+airflow.cfg
+
+# System files
+.DS_Store
+Thumbs.db

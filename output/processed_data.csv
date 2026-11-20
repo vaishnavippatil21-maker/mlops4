@@ -1,0 +1,16 @@
+id,name,age,salary,department
+1,Amit,25.0,45000.0,IT
+2,Priya,28.0,52000.0,HR
+3,Rahul,31.0,60000.0,Finance
+4,Neha,24.0,42000.0,IT
+5,Aditya,29.0,55000.0,Sales
+6,Ananya,27.0,48000.0,HR
+7,Rohan,35.0,72000.0,Finance
+8,Sneha,26.0,46000.0,IT
+9,Karan,28.5,51000.0,Sales
+10,Pooja,30.0,58000.0,HR
+11,Arjun,32.0,65000.0,Finance
+12,Meera,23.0,40000.0,IT
+13,Vikram,38.0,80000.0,Finance
+14,Isha,29.0,51500.0,Sales
+15,Nikhil,27.0,49000.0,IT

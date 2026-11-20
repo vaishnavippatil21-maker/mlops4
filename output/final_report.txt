@@ -1,0 +1,4 @@
+AIRFLOW DATA PIPELINE REPORT
+Number of records processed: 15
+Missing values identified: 2
+Processing completion status: SUCCESS

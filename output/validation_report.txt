@@ -1,0 +1,10 @@
+DATA VALIDATION REPORT
+Total records: 15
+Total missing values: 2
+
+Missing values by column:
+id: 0
+name: 0
+age: 1
+salary: 1
+department: 0
